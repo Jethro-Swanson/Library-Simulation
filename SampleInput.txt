@@ -1,0 +1,19 @@
+ADD Coolguy, Bob, Coolguy's Guide
+ADD Everglow, V.M., Fruit of Failure
+ADD Gobo, Ti, Spice and Candy
+ADD Coolguy, Bob, Lost Love
+ADD Rowen, Mac, Teacher of Loria
+ADD Teninov, S., Last of True Scamps
+SEARCHA Coolguy
+GETBOOK Gobo, Ti, Spice and Candy
+ADD Lowtower, Moric, Fires Rising
+ADD Okav, Yin, Dinner With Gods
+ADD Onlylastname, ,Book of Dead Fish
+GETBOOK Lowtower, Moric, Fires Rising
+ADD Bob, Coolguy, Lost Love
+SEARCHT Lost Love
+RETURNBOOK Gobo, Ti, Spice and Candy
+SEARCHA Onlylastname
+GETBOOK Coolguy, Bob, Coolguy's Guide
+GETBOOK Coolguy, Bob, Coolguy's Guide
+RETURNBOOK Coolguy, Bob, Coolguy's Guide
